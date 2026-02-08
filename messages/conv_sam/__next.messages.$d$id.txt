@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[60683,["/doko-prototype/_next/static/chunks/d3dfc0938284b96b.js"],"default"]
 3:I[85645,["/doko-prototype/_next/static/chunks/d3dfc0938284b96b.js"],"default"]
-0:{"buildId":"RcJWUF8oEoZOWMlTH44DN","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"VVP3LEnXf1y32N7C5XgYm","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}

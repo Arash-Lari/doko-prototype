@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[51886,["/doko-prototype/_next/static/chunks/b84ef36698cfbeb7.js","/doko-prototype/_next/static/chunks/acce3d54d4ffd6c5.js","/doko-prototype/_next/static/chunks/54b1ae44eb4de4c1.js"],"default"]
+2:I[51886,["/doko-prototype/_next/static/chunks/d3460adf90439179.js","/doko-prototype/_next/static/chunks/2bdfb4c64e99438a.js","/doko-prototype/_next/static/chunks/54b1ae44eb4de4c1.js"],"default"]
 4:I[82067,["/doko-prototype/_next/static/chunks/d3dfc0938284b96b.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"RcJWUF8oEoZOWMlTH44DN","rsc":["$","$1","c",{"children":[["$","$L2",null,{"params":"$@3"}],[["$","script","script-0",{"src":"/doko-prototype/_next/static/chunks/54b1ae44eb4de4c1.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"VVP3LEnXf1y32N7C5XgYm","rsc":["$","$1","c",{"children":[["$","$L2",null,{"params":"$@3"}],[["$","script","script-0",{"src":"/doko-prototype/_next/static/chunks/54b1ae44eb4de4c1.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 3:{"id":"close_friends"}
 6:null
